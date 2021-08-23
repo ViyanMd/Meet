@@ -428,3 +428,10 @@ footer p {
     margin-bottom: 5rem;
   }
 }
+
+@media screen and (min-width: 413px) {
+  .gallery {
+    width: 90%;
+    margin: 0 auto;
+  }
+}
