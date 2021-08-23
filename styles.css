@@ -319,6 +319,7 @@ footer p {
     grid-template-areas: "left middle right";
     margin: 0 auto;
     overflow: hidden;
+    margin-top: 6%;
   }
 
   .desktop-left {
